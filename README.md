@@ -78,4 +78,4 @@ Jenkins is **licensed** under the **[MIT License]**.
 [website]: https://www.jenkins.io/
 
 Tip of the day:
-
+Placeholder
